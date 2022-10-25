@@ -15,7 +15,7 @@
 <img src="https://github.com/ANGJustinl/nonebot_plugin_writer/total.svg?label=Downloads&logo=github&cacheSeconds=600" alt="AABT">  
 </p>  
   
-[修改自 nonebot-plugin-drawer](https://github.com/CrazyBoyM/nonebot-plugin-drawer) 同时给我提供了非常多的思路
+修改自[nonebot-plugin-drawer](https://github.com/CrazyBoyM/nonebot-plugin-drawer) 同时给我提供了非常多的思路
 
 [百度文心大模型] https://wenxin.baidu.com/moduleApi/ernie3
 
