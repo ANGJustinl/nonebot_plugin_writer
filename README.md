@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Onebot-v11-lightgrey" alt="onebot11">
 <img src="https://img.shields.io/badge/nonebot-2.0.0b4-orange" alt="nonebot2">
 <img src="https://img.shields.io/github/last-commit/ANGJustinl/nonebot_plugin_writer.svg?label=Updated&logo=github&cacheSeconds=600" alt="AABT">   
-<img src="https://github.com/ANGJustinl/nonebot_plugin_writer/total.svg?label=Downloads&logo=github&cacheSeconds=600" alt="AABT">  
+<img src="https://github.com/ANGJustinl/nonebot_plugin_writer/total.svg?label=Downloads&logo=github&cacheSeconds=600" alt="nonebot_plugin_writer">  
 </p>  
   
 [修改自 nonebot-plugin-drawer](https://github.com/CrazyBoyM/nonebot-plugin-drawer) 同时给我提供了非常多的思路
