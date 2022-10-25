@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: nonebot-plugin-writer
+Version: 0.2.0
+Summary: 基于 百度文心大模型 的 NoneBot2 promote索引文字生成插件
+Home-page: https://github.com/ANGJustinl/nonebot_plugin_writer
+Author: ANGJustinl
+Author-email: angjustin@126.com
+Keywords: pip,nonebot2,nonebot,nonebot_plugin
+Platform: any
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7.3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 <div align="center">
 
 # nonebot_plugin_writer

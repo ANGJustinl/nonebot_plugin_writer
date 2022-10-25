@@ -1,0 +1,8 @@
+nonebot-adapter-onebot>=2.0.0-beta.1
+nonebot2>=2.0.0-beta.1
+httpx>=0.23.0
+pillow>=8.2.0
+playwright>=1.22.0
+lxml>=4.8.0
+tencentcloud-sdk-python>=3.0.675
+aiofiles>=22.1.0async-timeout>=4.0.2syncio-dgram>=2.1.2APScheduler>=3.9.1aiocqhttp>=1.4.3aiocache>=0.11.1http-utils>=0.1.3httpcore>=0.15.0logger>=1.4Markdown>=3.4.1nb-cli>=0.6.7nonebot-plugin-apscheduler>=0.2.0nonebot-adapter-onebot>=2.1.4nonebot-plugin-apscheduler>=0.2.0nonebot-plugin-autohelp>=0.1.7nonebot-plugin-datastore>=0.4.0nonebot-plugin-heweather>=0.6.0nonebot-plugin-htmlrender>=0.1.1nonebot-plugin-localstore>=0.2.0nonebot2>=2.0.0rc1numpy>=1.23.4packaging>=21.3scipy>=1.9.2six>=1.16.0toml>=0.10.2tomlkit>=0.10.2tornado>=6.2tortoise-orm>=0.19.2utils>=1.0.1uvicorn>=0.18.3webencodings>=0.5.1websockets>=10.3wenxin-api>=0.0.5.1yarl>=1.8.1poetry>=1.2.2poetry-core>=1.3.2poetry-plugin-export>=1.1.2

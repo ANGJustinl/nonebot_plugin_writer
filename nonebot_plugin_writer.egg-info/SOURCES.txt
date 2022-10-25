@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+nonebot_plugin_writer/__init__.py
+nonebot_plugin_writer/config.py
+nonebot_plugin_writer/limiter.py
+nonebot_plugin_writer/writer.py
+nonebot_plugin_writer.egg-info/PKG-INFO
+nonebot_plugin_writer.egg-info/SOURCES.txt
+nonebot_plugin_writer.egg-info/dependency_links.txt
+nonebot_plugin_writer.egg-info/requires.txt
+nonebot_plugin_writer.egg-info/top_level.txt
