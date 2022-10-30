@@ -20,7 +20,7 @@ VERSION = '0.2.1'
 
 setuptools.setup(
     name="nonebot_plugin_writer",
-    version="0.2.0",
+    version="0.2.1",
     author="ANGJustinl",
     author_email="angjustin@126.com",
     keywords=["pip", "nonebot2", "nonebot", "nonebot_plugin"],
