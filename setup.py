@@ -15,8 +15,8 @@ DESCRIPTION = '基于 百度文心大模型 的 NoneBot2 promote索引文字生�
 URL = 'https://github.com/ANGJustinl/nonebot_plugin_writer'
 EMAIL = 'angjustin@126.com'
 AUTHOR = 'ANGJustinl'
-REQUIRES_PYTHON = '>=10.0.0'
-VERSION = '0.2.0'
+REQUIRES_PYTHON = '>=9.0.0'
+VERSION = '0.2.1'
 
 setuptools.setup(
     name="nonebot_plugin_writer",
@@ -36,6 +36,31 @@ setuptools.setup(
     include_package_data=True,
     platforms="any",
     install_requires=[
+        'httpx==0.23.0'
+        'nonebot==1.9.1'
+        'nb-cli>=0.6.7'
+        'nonebot-plugin-apscheduler>=0.2.0'
+        'nonebot-adapter-onebot>=2.1.4'
+        'nonebot-plugin-apscheduler>=0.2.0'
+        'nonebot-plugin-autohelp>=0.1.7'
+        'nonebot-plugin-datastore>=0.4.0'
+        'nonebot-plugin-heweather>=0.6.0'
+        'nonebot-plugin-htmlrender>=0.1.1'
+        'nonebot-plugin-localstore>=0.2.0'
+        'pydantic==1.9.2'
+        'setuptools==57.4.0'
+        'wenxin_api==0.0.5.1'
+        'toml>=0.10.2'
+        'yarl>=1.8.1'
+        'poetry>=1.2.2'
+        'poetry-core>=1.3.2'
+        'poetry-plugin-export>=1.1.2'
+    ],
+    python_requires=">=3.7.3"
+)
+
+'''如有报错使用如下
+install_requires=[
         'nonebot-adapter-onebot>=2.0.0-beta.1',
         'nonebot2>=2.0.0-beta.1',
         'httpx>=0.23.0',
@@ -81,5 +106,4 @@ setuptools.setup(
         'poetry-core>=1.3.2'
         'poetry-plugin-export>=1.1.2'
     ],
-    python_requires=">=3.7.3"
-)
+    '''
