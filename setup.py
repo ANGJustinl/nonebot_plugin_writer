@@ -49,7 +49,7 @@ setuptools.setup(
         'nonebot-plugin-localstore>=0.2.0'
         'pydantic==1.10.3'
         'setuptools==65.6.3'
-        'wenxin_api==0.1.7'
+        'wenxin_api==0.2.1'
         'toml>=0.10.2'
         'yarl>=1.8.1'
         'poetry>=1.2.2'
