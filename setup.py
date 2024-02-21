@@ -36,7 +36,7 @@ setuptools.setup(
     include_package_data=True,
     platforms="any",
     install_requires=[
-        'httpx==0.23.1'
+        'httpx==0.27.0'
         'nonebot==1.9.1'
         'nb-cli>=0.6.7'
         'nonebot-plugin-apscheduler>=0.2.0'
