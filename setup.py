@@ -47,7 +47,7 @@ setuptools.setup(
         'nonebot-plugin-heweather>=0.6.0'
         'nonebot-plugin-htmlrender>=0.1.1'
         'nonebot-plugin-localstore>=0.2.0'
-        'pydantic==1.10.3'
+        'pydantic==2.6.4'
         'setuptools==65.6.3'
         'wenxin_api==0.1.7'
         'toml>=0.10.2'
