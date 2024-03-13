@@ -48,7 +48,7 @@ setuptools.setup(
         'nonebot-plugin-htmlrender>=0.1.1'
         'nonebot-plugin-localstore>=0.2.0'
         'pydantic==1.10.3'
-        'setuptools==65.6.3'
+        'setuptools==69.2.0'
         'wenxin_api==0.1.7'
         'toml>=0.10.2'
         'yarl>=1.8.1'
